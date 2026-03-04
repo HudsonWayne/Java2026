@@ -13,6 +13,8 @@ public class variables {
         char symbol = '!';
 
         boolean isStudent = true;
+        boolean forSale = false;
+        boolean isOnline = false;
 
 
         
