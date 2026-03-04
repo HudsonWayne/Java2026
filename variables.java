@@ -16,6 +16,8 @@ public class variables {
         boolean forSale = false;
         boolean isOnline = false;
 
+        String name = "Wayne";
+
 
         
         if (isStudent) {
