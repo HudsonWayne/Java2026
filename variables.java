@@ -10,6 +10,7 @@ public class variables {
         double temperature = -12.5;
 
         char grade = 'A';
+        char symbol = '!';
 
 
         
