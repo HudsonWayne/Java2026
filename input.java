@@ -9,6 +9,17 @@ public class input {
         System.out.println("Enter your name: ");
         String name = scanner.nextLine();
 
+        System.out.println("Enter your age: ");
+        int age = scanner.nextInt();
+
+
+        System.out.println("You are " + " " + age + " " + "years old");
+
+
+
+
+        System.out.println("Hello " + name);
+
 
         scanner.close();
 
