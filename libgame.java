@@ -13,6 +13,14 @@ public class libgame {
         String adjective2;
         String verb1;
 
+
+
+        System.out.println("Enter an adjective (description: ");
+        System.out.println();
+        System.out.println();
+        System.out.println();
+        System.out.println();
+
         System.out.println("Today i went to a " + adjective1 + " zoo ");
         System.out.println("In an exhibit, i saw a " + noun1 + ".");
         System.out.println(noun1 + " was " + adjective2 + " and " + verb1 + "!");
