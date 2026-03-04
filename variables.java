@@ -12,6 +12,8 @@ public class variables {
         char grade = 'A';
         char symbol = '!';
 
+        boolean isStudent = true;
+
 
         
         System.out.println("The year is " + year);
