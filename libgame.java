@@ -9,6 +9,9 @@ public class libgame {
         Scanner = new Scanner(System.in);
 
         String adjective1;
+        String noun1;
+        String adjective2;
+        String verb1;
 
         
     }
