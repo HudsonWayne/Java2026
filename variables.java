@@ -9,8 +9,11 @@ public class variables {
         double gpa = 3.5;
         double temperature = -12.5;
 
+        char grade = 'A';
+
 
         
         System.out.println("The year is " + year);
+
     }
 }
