@@ -4,6 +4,13 @@ public class variables {
         int age = 22;
         int year = 2005;
         int quantity = 1;
+
+        double price = 19.99;
+        double gpa = 3.5;
+        double temperature = -12.5;
+
+
+        
         System.out.println("The year is " + year);
     }
 }
