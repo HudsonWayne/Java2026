@@ -16,10 +16,11 @@ public class libgame {
 
 
         System.out.println("Enter an adjective (description): ");
+        adjective1 = scanner.nextLine()
         System.out.println("Enter a noun (animal or person): ");
         System.out.println("Enter an adjective (description): ");
         System.out.println("Enter a verb with -ing (action)");
-        System.out.println();
+
 
         System.out.println("Today i went to a " + adjective1 + " zoo ");
         System.out.println("In an exhibit, i saw a " + noun1 + ".");
