@@ -3,6 +3,7 @@ public class nasted {
 
         boolean isStudent;
         boolean isSenior;
+        double price = 9.99;
         
     }
 }
