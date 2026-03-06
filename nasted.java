@@ -13,6 +13,7 @@ public class nasted {
         else{
             price *= 1; 
         }
+        System.out.println("The price of a ticket is: $" + price);
         
     }
 }
