@@ -1,9 +1,18 @@
 public class nasted {
     public static void main(String[] args) {
 
-        boolean isStudent;
+        boolean isStudent = true;
         boolean isSenior;
         double price = 9.99;
+        
+        if(isStudent){
+            System.out.println("You get a student discount of 10%");
+            price *= 0.9;
+
+        }
+        else{
+            price *= 1; 
+        }
         
     }
 }
